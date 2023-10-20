@@ -1,0 +1,19 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Themecy - Premium Wordpress Themes</title>
+<meta name="description" content="We're Themecy, your ultimate source for premium Wordpress themes.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="index.css" rel="stylesheet">
+<link href="index.css" rel="stylesheet">
+</head>
+<body>
+<div id="container">
+<div id="wb_Image1">
+<a href="https://www.themecy.com/" title="Themecy"><img src="images/logo.png" id="Image1" alt width="189" height="76"></a></div>
+<div id="wb_Text1">
+<span style="color:#303030;font-family:'Lucida Console';font-size:21px;line-height:21px;">We're a design studio made by thinkers and makers who create beautiful WordPress themes that solve real digital problems.<br><br><br><br>Themecy is your destination for premium themes and plugins for your WordPress website. Our themes and plugins are sold as a digital download through our website.<br><br><br><br></span><span style="color:#303030;font-family:'Lucida Console';font-size:21px;line-height:24px;">Yes. All of our themes are fully-responsive so that you can enjoy using them from multiple gadgets (phones, tablets, etc.).<br><br><br>NEW! <a href="https://kits.themecy.com/events-2/" title="Yosemite National Park, California Theme">Yosemite National Park, California Theme</a><br><br><br>You must <a href="https://www.themecy.com/register/">register</a> to view our library of high quality themes. By registering, you agree to our <a href="https://www.themecy.com/terms/">terms of service</a><br><br><br><br>© <a href="https://www.themecy.com/" title="Themecy">Themecy</a>. All rights reserved.</span></div>
+</div>
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh'},{'server':'a2plcpnl0475'},{'dcenter':'a2'},{'cp_id':'6742559'},{'cp_cache':''},{'cp_cl':'6'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/traffic-assets/js/tccl.min.js"></script></html>

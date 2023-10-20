@@ -1,0 +1,166 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+i {
+  font-size: 10px;
+  size: 8px;
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  font-weight: 50px;
+}
+#secondnavbar {
+  box-shadow: 3px 1px 3px 1px rgb(111, 111, 253);
+}
+#firstnavright {
+  margin-left: 100px;
+}
+.backgroundimg {
+  background-repeat: no-repeat;
+  width: 1400px;
+  height: 500px;
+}
+.firstimage {
+  width: 400px;
+  height: 350px;
+}
+/* #course{
+    
+    background-color: aqua;
+    color: orangered;
+} */
+#courses {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  color: orangered;
+}
+.color {
+  background-color: rgb(79, 164, 255);
+}
+.size {
+  width: 500px;
+  height: 400px;
+}
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.align-item-center {
+  margin-top: 11%;
+}
+
+/* our team start */
+
+.bbb {
+  background-color: rgb(62, 57, 57);
+  color: white;
+  font-weight: bold;
+  align-items: center;
+}
+
+/* our team end */
+
+/* footer  */
+
+.footer {
+  background-color: rgb(44, 43, 43);
+  color: white;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.first {
+  margin-top: 15px;
+}
+a {
+  list-style-type: none;
+  color: white;
+}
+.first:hover {
+  cursor: pointer;
+}
+.third {
+  color: white;
+}
+
+/* button  */
+
+button {
+  border: 1px solid white;
+  color: black;
+  background-color: yellow;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+button:hover {
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  transition-delay: 0.2s;
+}
+button a {
+  color: black;
+}
+.banner {
+  width: 1400px;
+  height: 250px;
+}
+.imaaa img {
+  width: 1000px;
+  height: 200px;
+}
+
+/* payment page */
+
+.paymentbanner {
+  width: 1050px;
+  height: 250px;
+}
+
+#payment {
+  width: 500px;
+  height: 330px;
+}
+
+/* contact page */
+
+#contact {
+  width: 1200px;
+  height: 400px;
+}
+#form {
+  padding: 5px;
+  border-radius: 5px;
+}
+#text-area {
+  width: 300px;
+  height: 120px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+/* navbar second  */
+
+li {
+  list-style: none;
+  list-style-type: none;
+}
+nav {
+  background-color: rgb(254, 100, 172);
+}
+a:hover {
+  color: rgb(162, 3, 224);
+  background-color: rgba(245, 165, 18, 0.94);
+  border-radius: 5px;
+  padding: 5px;
+}
+nav {
+  background-attachment: fixed;
+}
